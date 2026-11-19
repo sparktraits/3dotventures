@@ -19,10 +19,10 @@
   --warn: #f0b44c;
   --info: #9cb8ff;
   --r: 14px;
-  --f-display: "Familjen Grotesk", "Helvetica Neue", Arial, sans-serif;
-  --f-body: "Public Sans", "Segoe UI", system-ui, sans-serif;
-  --f-serif: "Fraunces", Georgia, serif;
-  --f-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --f-display: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --f-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --f-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --f-mono: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --wrap: 1240px;
   --ease: cubic-bezier(.2, .7, .2, 1);
 }
